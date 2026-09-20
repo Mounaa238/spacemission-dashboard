@@ -1,0 +1,1095 @@
+{
+    "source": "ISRO",
+    "source_url": "https://www.isro.gov.in/SpacecraftMissions.html",
+    "total_missions": 136,
+    "missions": [
+        {
+            "name": "Bhaskara-1",
+            "launch_date": "07-06-1979",
+            "launch_vehicle": "C-1Intercosmos",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "RS-D1",
+            "launch_date": "31-05-1981",
+            "launch_vehicle": "SLV-3D1",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "BHASKARA-2",
+            "launch_date": "20-11-1981",
+            "launch_vehicle": "C-1 Intercosmos",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "RS-D2",
+            "launch_date": "17-04-1983",
+            "launch_vehicle": "SLV-3",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-1B",
+            "launch_date": "30-08-1983",
+            "launch_vehicle": "Shuttle [PAM-D]",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRS-1A",
+            "launch_date": "17-03-1988",
+            "launch_vehicle": "Vostok",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-1D",
+            "launch_date": "12-06-1990",
+            "launch_vehicle": "Delta 4925",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRS-1B",
+            "launch_date": "29-08-1991",
+            "launch_vehicle": "Vostok",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRS-1E",
+            "launch_date": "20-09-1993",
+            "launch_vehicle": "PSLV-D1",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRS-P2",
+            "launch_date": "15-10-1994",
+            "launch_vehicle": "PSLV-D2",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRS-1C",
+            "launch_date": "28-12-1995",
+            "launch_vehicle": "Molniya",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRS-P3",
+            "launch_date": "21-03-1996",
+            "launch_vehicle": "PSLV-D3",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRS-1D",
+            "launch_date": "29-09-1997",
+            "launch_vehicle": "PSLV-C1",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "OCEANSAT-1(IRS-P4)",
+            "launch_date": "26-05-1999",
+            "launch_vehicle": "PSLV-C2",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "KALPANA",
+            "launch_date": "12-09-2002",
+            "launch_vehicle": "PSLV-C4",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-3A",
+            "launch_date": "10-04-2003",
+            "launch_vehicle": "Ariane5-V160",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "RESOURCESAT-1",
+            "launch_date": "17-10-2003",
+            "launch_vehicle": "PSLV-C5",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CARTOSAT-1",
+            "launch_date": "05-05-2005",
+            "launch_vehicle": "PSLV-C6",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CARTOSAT-2",
+            "launch_date": "10-01-2007",
+            "launch_vehicle": "PSLV-C40",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CARTOSAT-2A",
+            "launch_date": "28-04-2008",
+            "launch_vehicle": "PSLV-C9",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "RISAT-2",
+            "launch_date": "20-04-2009",
+            "launch_vehicle": "PSLV-C48",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "OCEANSAT-2",
+            "launch_date": "23-09-2009",
+            "launch_vehicle": "PSLV-C14",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CARTOSAT-2B",
+            "launch_date": "12-07-2010",
+            "launch_vehicle": "PSLV-C15",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "RESOURCESAT-2",
+            "launch_date": "20-04-2011",
+            "launch_vehicle": "PSLV-C16",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "MEGHA TROPIQUES",
+            "launch_date": "12-10-2011",
+            "launch_vehicle": "PSLV-C18",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "RISAT-1",
+            "launch_date": "26-04-2012",
+            "launch_vehicle": "PSLV-C19",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "SARAL",
+            "launch_date": "25-02-2013",
+            "launch_vehicle": "PSLV-C20",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-3D",
+            "launch_date": "26-07-2013",
+            "launch_vehicle": "Ariane-5 VA-214",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CARTOSAT-2C",
+            "launch_date": "22-06-2016",
+            "launch_vehicle": "PSLV-C34",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-3DR",
+            "launch_date": "09-08-2016",
+            "launch_vehicle": "GSLV-F05",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "SCATSAT-1",
+            "launch_date": "26-09-2016",
+            "launch_vehicle": "PSLV-C35",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "RESOURESAT-2A",
+            "launch_date": "07-12-2016",
+            "launch_vehicle": "PSLV-C36",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CARTOSAT-2D",
+            "launch_date": "15-02-2017",
+            "launch_vehicle": "PSLV-C37",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CARTOSAT-2E",
+            "launch_date": "23-06-2017",
+            "launch_vehicle": "PSLV-C38",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CARTOSAT-2F",
+            "launch_date": "12-01-2018",
+            "launch_vehicle": "PSLV-C40",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "MICROSAT-TD",
+            "launch_date": "12-01-2018",
+            "launch_vehicle": "PSLV-C40",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "HYSIS",
+            "launch_date": "29-11-2018",
+            "launch_vehicle": "PSLV-C43",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "EMISAT",
+            "launch_date": "01-04-2019",
+            "launch_vehicle": "PSLV-C45",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "RISAT-2B",
+            "launch_date": "22-05-2019",
+            "launch_vehicle": "PSLV-C46",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CARTOSAT-3",
+            "launch_date": "27-11-2019",
+            "launch_vehicle": "PSLV-C47",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "RISAT-2BR1",
+            "launch_date": "11-12-2019",
+            "launch_vehicle": "PSLV-C48",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "EOS-01 (RISAT-2BR2)",
+            "launch_date": "11-07-2020",
+            "launch_vehicle": "PSLV-C49",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "EOS-03 (GISAT-1)",
+            "launch_date": "12-08-2021",
+            "launch_vehicle": "GSLV-F10",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "EOS-04(RISAT-1A)",
+            "launch_date": "14-02-2022",
+            "launch_vehicle": "PSLV-C52",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "EOS-06 (OS-3)",
+            "launch_date": "26-11-2022",
+            "launch_vehicle": "PSLV-C54",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INDIA-BHUTAN SAT",
+            "launch_date": "26-11-2022",
+            "launch_vehicle": "PSLV-C54",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-3DS",
+            "launch_date": "17-02-2024",
+            "launch_vehicle": "GSLV-F14",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "RISAT-1B (EOS-09)",
+            "launch_date": "18-05-2025",
+            "launch_vehicle": "PSLV-C61",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "NISAR",
+            "launch_date": "30-07-2025",
+            "launch_vehicle": "GSLV-F16",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "ANVESHA (EOS-N1)",
+            "launch_date": "12-01-2026",
+            "launch_vehicle": "PSLV-C62",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "EOS-05",
+            "launch_date": "04-09-2026",
+            "launch_vehicle": "GSLV-F17",
+            "status": "",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-1A",
+            "launch_date": "10-04-1982",
+            "launch_vehicle": "Delta",
+            "status": "Satellite failure",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-1C",
+            "launch_date": "22-07-1988",
+            "launch_vehicle": "Ariane-3",
+            "status": "Satellite failure",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-2A",
+            "launch_date": "10-07-1992",
+            "launch_vehicle": "Ariane-44L H10",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-2B",
+            "launch_date": "23-07-1993",
+            "launch_vehicle": "Ariane-44L H10+",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-2C",
+            "launch_date": "07-12-1995",
+            "launch_vehicle": "Ariane-44L H10-3",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-2D",
+            "launch_date": "04-06-1997",
+            "launch_vehicle": "Ariane-44L H10-3",
+            "status": "Satellite failure",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-2E",
+            "launch_date": "03-04-1999",
+            "launch_vehicle": "Ariane-42P H10-3",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-3B",
+            "launch_date": "22-03-2000",
+            "launch_vehicle": "Ariane-5G",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-1",
+            "launch_date": "18-04-2001",
+            "launch_vehicle": "GSLV-D1",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-3C",
+            "launch_date": "24-01-2002",
+            "launch_vehicle": "Ariane5-V147",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-2",
+            "launch_date": "05-08-2003",
+            "launch_vehicle": "GSLV-D2",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-3E",
+            "launch_date": "28-09-2003",
+            "launch_vehicle": "Ariane5-V162",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "EDUSAT",
+            "launch_date": "20-09-2004",
+            "launch_vehicle": "GSLV-F01",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-4A",
+            "launch_date": "22-12-2005",
+            "launch_vehicle": "Ariane5-V169",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-4C",
+            "launch_date": "10-07-2006",
+            "launch_vehicle": "GSLV-F02",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-4B",
+            "launch_date": "12-03-2007",
+            "launch_vehicle": "Ariane5",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INSAT-4CR",
+            "launch_date": "02-09-2007",
+            "launch_vehicle": "GSLV-F04",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "W2M",
+            "launch_date": "21-12-2008",
+            "launch_vehicle": "Ariane5",
+            "status": "Satellite built by ISRO for foreign customer",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-4",
+            "launch_date": "15-04-2010",
+            "launch_vehicle": "GSLV-D3",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "HYLAS",
+            "launch_date": "27-11-2010",
+            "launch_vehicle": "Ariane5",
+            "status": "Satellite built by ISRO for foreign customer",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-5P",
+            "launch_date": "25-12-2010",
+            "launch_vehicle": "GSLV-F06",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-8",
+            "launch_date": "21-05-2011",
+            "launch_vehicle": "Ariane-5 VA-202",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-12",
+            "launch_date": "15-07-2011",
+            "launch_vehicle": "PSLV-C17",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-10",
+            "launch_date": "29-09-2012",
+            "launch_vehicle": "Ariane-5 VA-209",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-7",
+            "launch_date": "30-08-2013",
+            "launch_vehicle": "Ariane-5 VA-215",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-14",
+            "launch_date": "05-01-2014",
+            "launch_vehicle": "GSLV-D5",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-16",
+            "launch_date": "07-12-2014",
+            "launch_vehicle": "Ariane-5 VA-221",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-6",
+            "launch_date": "27-08-2015",
+            "launch_vehicle": "GSLV- D6",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-15",
+            "launch_date": "11-10-2015",
+            "launch_vehicle": "Ariane-5 VA-227",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-18",
+            "launch_date": "06-10-2016",
+            "launch_vehicle": "Ariane-5 VA-231",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-9",
+            "launch_date": "05-05-2017",
+            "launch_vehicle": "GSLV-F09",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-19",
+            "launch_date": "05-06-2017",
+            "launch_vehicle": "GSLV Mk  III D1",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-17",
+            "launch_date": "29-06-2017",
+            "launch_vehicle": "Ariane-5 VA-238",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-6A",
+            "launch_date": "29-03-2018",
+            "launch_vehicle": "GSLV-F08",
+            "status": "Satellite failure",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-29",
+            "launch_date": "14-11-2018",
+            "launch_vehicle": "GSLV  Mk III D2",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-11",
+            "launch_date": "05-12-2018",
+            "launch_vehicle": "Ariane-5 VA-246",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-7A",
+            "launch_date": "19-12-2018",
+            "launch_vehicle": "GSLV-F11",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-31",
+            "launch_date": "06-02-2019",
+            "launch_vehicle": "Ariane-5 VA-247",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-30",
+            "launch_date": "17-01-2020",
+            "launch_vehicle": "Ariane-5 VA-251",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CMS-01",
+            "launch_date": "17-12-2020",
+            "launch_vehicle": "PSLV-C50",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-24",
+            "launch_date": "24-06-2022",
+            "launch_vehicle": "Ariane-V(VS257)",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "GSAT-N2",
+            "launch_date": "19-11-2024",
+            "launch_vehicle": "Falcon-9",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CMS-03 (GSAT-7R)",
+            "launch_date": "02-11-2025",
+            "launch_vehicle": "LVM3-M5",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRNSS-1A",
+            "launch_date": "01-07-2013",
+            "launch_vehicle": "PSLV-C22",
+            "status": "Operational for Messaging service/Disaster Alerts",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRNSS-1B",
+            "launch_date": "04-04-2014",
+            "launch_vehicle": "PSLV-C24",
+            "status": "Operational  for PNT service",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRNSS-1C",
+            "launch_date": "16-10-2014",
+            "launch_vehicle": "PSLV-C26",
+            "status": "Operational for Messaging service/Disaster Alerts",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRNSS-1D",
+            "launch_date": "28-03-2015",
+            "launch_vehicle": "PSLV-C27",
+            "status": "Not operational / Planned to be decommission",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRNSS-1E",
+            "launch_date": "20-01-2016",
+            "launch_vehicle": "PSLV-C31",
+            "status": "Operational for Messaging service/Disaster Alerts",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRNSS-1F",
+            "launch_date": "10-03-2016",
+            "launch_vehicle": "PSLV-C32",
+            "status": "Operational  for Messaging service/Disaster Alerts",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRNSS-1G",
+            "launch_date": "28-04-2016",
+            "launch_vehicle": "PSLV-C33",
+            "status": "Operational for Messaging service ( RS)",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRNSS-1H",
+            "launch_date": "31-08-2017",
+            "launch_vehicle": "PSLV-C39",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IRNSS-1I",
+            "launch_date": "12-04-2018",
+            "launch_vehicle": "PSLV-C41",
+            "status": "Operational  for PNT service",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "NVS-01",
+            "launch_date": "29-05-2023",
+            "launch_vehicle": "GSLV-F12",
+            "status": "Operational  for PNT service",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "NVS-02",
+            "launch_date": "29-01-2025",
+            "launch_vehicle": "GSLV-F15",
+            "status": "Not operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CHANDRAYAAN-1",
+            "launch_date": "22-10-2008",
+            "launch_vehicle": "PSLV-C11",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "MARS ORBITER MISSION",
+            "launch_date": "11-05-2013",
+            "launch_vehicle": "PSLV-C25",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "ASTROSAT",
+            "launch_date": "28-09-2015",
+            "launch_vehicle": "PSLV-C30",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "Chandrayaan-2",
+            "launch_date": "22-07-2019",
+            "launch_vehicle": "GSLV Mk III M1",
+            "status": "Operational (Orbiter)",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "Chandrayaan-3",
+            "launch_date": "14-07-2023",
+            "launch_vehicle": "LVM3 M4",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "Aditya-L1",
+            "launch_date": "02-09-2023",
+            "launch_vehicle": "PSLV-C57",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "XPoSat",
+            "launch_date": "01-01-2024",
+            "launch_vehicle": "PSLV-C58",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "Aryabhatta",
+            "launch_date": "19-04-1975",
+            "launch_vehicle": "C-1 Intercosmos",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "Rohini Technology Payload",
+            "launch_date": "10-08-1979",
+            "launch_vehicle": "SLV-3E1",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "RS-1",
+            "launch_date": "18-07-1980",
+            "launch_vehicle": "SLV-3E2",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "APPLE",
+            "launch_date": "19-06-1981",
+            "launch_vehicle": "Ariane -1(V-3)",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "SROSS-1",
+            "launch_date": "24-03-1987",
+            "launch_vehicle": "ASLV-D1",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "SROSS-2",
+            "launch_date": "13-07-1988",
+            "launch_vehicle": "ASLV-D2",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "SROSS-C",
+            "launch_date": "20-05-1992",
+            "launch_vehicle": "ASLV-D3",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "SROSS-C2",
+            "launch_date": "04-05-1994",
+            "launch_vehicle": "ASLV-D4",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "TES",
+            "launch_date": "22-10-2001",
+            "launch_vehicle": "PSLV-C3",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "HAMSAT",
+            "launch_date": "05-05-2005",
+            "launch_vehicle": "PSLV-C6",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "SRE-1",
+            "launch_date": "10-01-2007",
+            "launch_vehicle": "PSLV-C7",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "IMS-1",
+            "launch_date": "28-04-2008",
+            "launch_vehicle": "PSLV-C9",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "YOUTHSAT",
+            "launch_date": "20-04-2011",
+            "launch_vehicle": "PSLV-C16",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "CARE",
+            "launch_date": "18-12-2014",
+            "launch_vehicle": "LVM-3",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INS-1A",
+            "launch_date": "15-02-2017",
+            "launch_vehicle": "PSLV-C37",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INS-1B",
+            "launch_date": "15-02-2017",
+            "launch_vehicle": "PSLV-C37",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INS-1C",
+            "launch_date": "12-01-2018",
+            "launch_vehicle": "PSLV-C40",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "Microsat-R (ASAT)",
+            "launch_date": "24-01-2019",
+            "launch_vehicle": "PSLV-C44",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "INS-2TD",
+            "launch_date": "14-02-2022",
+            "launch_vehicle": "PSLV-C52",
+            "status": "Not Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "EOS-02 (Microsat-2A)",
+            "launch_date": "07-08-2022",
+            "launch_vehicle": "SSLV-D1",
+            "status": "Launch unsuccessful",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "EOS-07 (Microsat-2B)",
+            "launch_date": "10-02-2023",
+            "launch_vehicle": "SSLV-D2",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "EOS-08 ( Microsat-2C)",
+            "launch_date": "16-08-2024",
+            "launch_vehicle": "SSLV-D3",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "SPADEX-A",
+            "launch_date": "30-12-2024",
+            "launch_vehicle": "PSLV C60",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        },
+        {
+            "name": "SPADEX-B",
+            "launch_date": "30-12-2024",
+            "launch_vehicle": "PSLV C60",
+            "status": "Operational",
+            "source": "ISRO",
+            "source_url": "https://www.isro.gov.in/SpacecraftMissions.html"
+        }
+    ]
+}
