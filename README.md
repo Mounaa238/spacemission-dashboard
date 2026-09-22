@@ -48,3 +48,6 @@ An interactive dashboard for exploring
 - Bhoonidhi: https://bhoonidhi.nrsc.gov.in/bhoonidhi/home.html
 
 - MOSDAC: https://www.mosdac.gov.in/?utm_source=chatgpt.com 
+
+DEPLOYED URL: 
+https://vercel.com/mounaa238/spacemission-dashboard/DRDK5B2VbuuMKR1pVtrdJTgqTN7e
